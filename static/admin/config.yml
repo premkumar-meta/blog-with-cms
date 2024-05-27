@@ -2,7 +2,7 @@ backend:
   name: github
   repo: premkumar-meta/blog-with-cms
   branch: main
-  site_domain: proptoll.com
+  site_domain: test.com
 
 media_folder: "static/uploads" # Adjust based on your media storage location
 public_folder: "/uploads" # URL path for accessing media
